@@ -1,0 +1,17 @@
+
+
+// Your variable overrides
+$body-bg: #e0e0e0;
+$body-color: #111;
+
+
+$theme-colors: (
+  "custom": #07f807,
+  "danger": #ff4136
+);
+
+
+
+// Include Bootstrap and BootstrapVue SCSS files
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~bootstrap-vue/src/index.scss';
