@@ -12,25 +12,28 @@
 
       <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav class="mt-1">
-          <b-nav-item to="/what-we-do" class="align-self-end">
-            What We Do
+          <b-nav-item to="/services" class="align-self-end">
+            Services
           </b-nav-item>
           <b-nav-text class="d-none d-lg-block mx-2">|</b-nav-text>
-          <b-nav-item to="/how-it-works" class="align-self-end">
-            How It Works
-          </b-nav-item>
-          <b-nav-text class="d-none d-lg-block mx-2">|</b-nav-text>
-          <b-nav-item to="/use-cases" class="align-self-end">
-            Use Cases
+          <b-nav-item to="/benefits" class="align-self-end">
+            Benefits
           </b-nav-item>
           <b-nav-text class="d-none d-lg-block mx-2">|</b-nav-text>
           <b-nav-item to="/pricing" class="align-self-end">
             Pricing
           </b-nav-item>
           <b-nav-text class="d-none d-lg-block mx-2">|</b-nav-text>
-          <b-nav-item to="/resources" class="align-self-end">
-            Resources
+          <b-nav-item to="/use-cases" class="align-self-end">
+            Use Cases
           </b-nav-item>
+          <b-nav-text class="d-none d-lg-block mx-2">|</b-nav-text>
+          <b-nav-item to="/success-stories" class="align-self-end">
+            Success Stories
+          </b-nav-item>
+          <!-- <b-nav-item to="/resources" class="align-self-end">
+            Resources
+          </b-nav-item> -->
           <!-- <b-nav-item-dropdown text="Work at Wattcode" class="align-self-end">
             <b-dropdown-item to="/work-at-wattcode/how-we-work">
               How We Work
