@@ -6,7 +6,7 @@
           Powering Innovation.
         </template>
         <template slot="lead">
-          On-demand development services.<br />
+          On-demand software development services.<br />
           First-class developers.<br />
           Fully-managed agile delivery process.<br />
           Scalable and flexible.<br />
@@ -33,27 +33,24 @@
         <b-button to="/what-we-do" variant="primary">Learn More</b-button>
       </b-card> -->
       <b-card class="my-4">
-        <h4 slot="header" class="mb-0 px-3">Services</h4>
+        <h4 slot="header" class="mb-0 px-3">What We Do</h4>
         <b-card-text class="px-3">
-          Wattcode builds software to power your business. We provide
-          cloud-based, on-demand software development services, utilizing our
-          proprietary PowerCycles agile methodology to rapidly deliver value to
-          customers. Our top-tier developers can be accelerating your projects
-          within 24 hours of engagement initiation!
+          Wattcode provides fully-managed, on-demand software development
+          services. We provide the people and process to build the technology
+          needed to power your business. Our teams can be innovating for you
+          within 24 hours!
         </b-card-text>
         <b-button slot="footer" to="/what-we-do" variant="primary" class="ml-3">
-          Learn More
+          Services
         </b-button>
       </b-card>
       <b-card class="my-4">
-        <h4 slot="header" class="mb-0 px-3">Benefits</h4>
+        <h4 slot="header" class="mb-0 px-3">How It Works</h4>
         <b-card-text class="px-3">
-          Our flexible, no-commitment model makes it easy to scale development
-          teams as needed. Engage a single-developer to supplement your team, or
-          entire squads to deliver larger projects. Our delivery management
-          services work with you to handle prioritization, planning and project
-          management, resulting in the rapid, hassle-free development of
-          high-quality software to take your business to new heights.
+          We utilize our proprietary PowerCycles agile methodology and flexible
+          application templates to rapidly deliver value. Our delivery
+          management team works with you to handle planning and execution,
+          resulting in the hassle-free development of quality custom software.
         </b-card-text>
         <b-button
           slot="footer"
@@ -61,27 +58,26 @@
           variant="primary"
           class="ml=3"
         >
-          Learn More
+          Benefits
         </b-button>
       </b-card>
       <b-card class="my-4">
-        <h4 slot="header" class="mb-0 px-3">Pricing</h4>
+        <h4 slot="header" class="mb-0 px-3">What It Costs</h4>
         <b-card-text class="px-3">
-          Wattcode uses a unique, no-contract, pay-as-you-go model. This
-          provides you with the ultimate flexibility to utilize the development
-          services required when you need them. We only charge you for time
-          spent delivering your projects. Our model is designed to maximize the
-          value delivered with your development budget.
+          Wattcode offers a unique, no-contract, pay-as-you-go model. Engage a
+          single-developer to supplement your team, or entire squads to deliver
+          larger projects. Flex your team as required to meet your business
+          goals. Our model is designed to maximize the value delivered.
           <!-- - no daily or weekly rates where you
           are paying to cover internal meeting time, long meal breaks or
           personal time off. -->
         </b-card-text>
         <b-button slot="footer" to="/use-cases" variant="primary">
-          Learn More
+          Pricing
         </b-button>
       </b-card>
     </b-card-group>
-    <div class="text-center py-5 use-cases">
+    <!-- <div class="text-center py-5 use-cases">
       <div>
         <h3>Use Cases</h3>
       </div>
@@ -97,9 +93,10 @@
       <b-button class="col-8 col-sm-6 col-lg-3 col-xl-2 mx-4 my-4 py-4">
         Transformation
       </b-button>
-    </div>
+    </div> -->
+    <hr class="col-12" />
     <div class="text-center mx-auto px-2 pt-5">
-      <h3>See Our Customer Stories</h3>
+      <h3>Testimonials</h3>
     </div>
     <b-carousel
       id="carousel-fade"
@@ -116,8 +113,10 @@
     </b-carousel>
     <div class="text-center mx-auto px-2 mb-5">
       <i class="mt-5">
-        "Wattcode is like AWS for development services."
+        "Wattcode is like AWS for software development services."
       </i>
+      <br />
+      <span>-- Bofei Cao, CEO</span>
     </div>
     <hr class="col-12" />
     <div class="text-center mx-auto p-5">

@@ -54,10 +54,10 @@
         <b-card-text class="px-3">
           Wattcode offers two ways to save even more: Reserved and As-Available
           Resources.<br />
-          <strong>Reserved Resources</strong>
-          Use Reserved Resources to lower your usage rates when you commit to
-          longer-term utilization. With Reserved Resources, you choose between a
-          6-month and 12-month commitment, a make a partial up-front payment,
+          <strong>Dedicated Resources</strong>
+          Use Dedicated Resources to lower your usage rates when you commit to
+          longer-term utilization. With Dedicated Resources, you choose between
+          a 6-month and 12-month commitment, make a partial up-front payment,
           and then pay a reduced rate for DevWatts utilized each month. The
           exact discount varies by service and commitment length, but for most
           services results in savings of up to 25%.

@@ -15,10 +15,10 @@
       <b-col cols="8" sm="8" md="2" lg="1" xl="1" class="pt-4">
         <h5>About</h5>
         <b-nav vertical>
-          <b-nav-item to="/blog">Blog</b-nav-item>
+          <!-- <b-nav-item to="/blog">Blog</b-nav-item> -->
           <b-nav-item to="/contact">Contact</b-nav-item>
-          <b-nav-item to="/privacy">Privacy</b-nav-item>
-          <b-nav-item to="/legal">Legal</b-nav-item>
+          <!-- <b-nav-item to="/privacy">Privacy</b-nav-item>
+          <b-nav-item to="/legal">Legal</b-nav-item> -->
         </b-nav>
       </b-col>
     </b-row>

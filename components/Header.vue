@@ -23,14 +23,11 @@
           <b-nav-item to="/pricing" class="align-self-end">
             Pricing
           </b-nav-item>
-          <b-nav-text class="d-none d-lg-block mx-2">|</b-nav-text>
-          <b-nav-item to="/use-cases" class="align-self-end">
+          <!-- <b-nav-text class="d-none d-lg-block mx-2">|</b-nav-text> -->
+          <!-- <b-nav-item to="/use-cases" class="align-self-end">
             Use Cases
           </b-nav-item>
-          <b-nav-text class="d-none d-lg-block mx-2">|</b-nav-text>
-          <b-nav-item to="/success-stories" class="align-self-end">
-            Success Stories
-          </b-nav-item>
+          <b-nav-text class="d-none d-lg-block mx-2">|</b-nav-text> -->
           <!-- <b-nav-item to="/resources" class="align-self-end">
             Resources
           </b-nav-item> -->
